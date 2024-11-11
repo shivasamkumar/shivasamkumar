@@ -22,38 +22,41 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-    <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
+<p align="left" style="display: flex; gap:30px; flex-wrap: wrap;">
+     <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> 
+        <img align="center" src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> 
     </a> 
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+        <img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     </a> 
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> 
     </a> 
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
+        <img align="center" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> 
     </a> 
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+        <img align="center" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
+        <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
     </a>
     <a href="https://www.ros.org" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros2" width="40" height="40"/> 
+        <img align="center" src="https://www.vectorlogo.zone/logos/ros/ros-icon.svg" alt="ros2" width="60" height="40"/> 
     </a>
     <a href="https://navigation.ros.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/ros-planning/navigation2/main/doc/nav2_logo.png" alt="nav2" width="40" height="40"/> 
+        <img align="center" src="https://raw.githubusercontent.com/ros-planning/navigation2/main/doc/nav2_logo.png" alt="nav2" width="40" height="40"/> 
     </a>
-<!--     <a href="https://moveit.ros.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/ros-planning/moveit2/master/.moveit_logo/moveit_logo_icon.svg" alt="moveit" width="40" height="40"/> 
-    </a> -->
     <a href="http://gazebosim.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://classic.gazebosim.org/assets/logos/gazebo_vert_pos-faad8cc37ab336f850e549077ef5831e5098034532113b06328dfd70355fb8f7.svg" alt="gazebo" width="50" height="50"/> 
+        <img align="center" src="https://classic.gazebosim.org/assets/logos/gazebo_vert_pos-faad8cc37ab336f850e549077ef5831e5098034532113b06328dfd70355fb8f7.svg" alt="gazebo" width="50" height="50"/> 
     </a>
     <a href="https://www.solidworks.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" width="50" height="50"/> 
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" width="50" height="50"/> 
     </a>
 </p>
