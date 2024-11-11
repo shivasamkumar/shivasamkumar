@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shiva Sam Kumar Govindan</h1>
 <h3 align="center">Welcome to my GitHub profile! I’m a robotics enthusiast and programmer with a strong focus on developing intelligent systems that navigate, perceive, and interact with their environments. My projects cover areas like autonomous navigation, robotic control, and computer vision, showcasing practical applications of advanced algorithms and real-time processing.</h3>
 
+
+- 🔭 Looking for full-time opportunities
+  
 - 🌱 I’m currently learning **ROS2, Autonomous Driving, Navigation Stack, Computer vision, Perception**
 
 - 📫 How to reach me **shivasamkumarg@gmail.com**
