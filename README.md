@@ -57,6 +57,3 @@
         <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/SolidWorks_Logo.svg" alt="solidworks" width="50" height="50"/> 
     </a>
 </p>
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivasamkumar&show_icons=true&locale=en&layout=compact" alt="shivasamkumar" /></p>
