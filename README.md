@@ -7,17 +7,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://linkedin.com/in/shiva sam kumar govindan" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[shiva sam kumar govindan](https://www.linkedin.com/in/shiva-sam-kumar/)" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/shiva-sam-kumar/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva-sam-kumar" height="30" width="40" />
     </a>
-    <a href="https://fb.com/shiva vicky" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shiva vicky" height="30" width="40" />
+    <a href="https://www.facebook.com/shiva.vicky.5/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shiva.vicky.5" height="30" width="40" />
     </a>
-    <a href="https://instagram.com/shiva sam kumar" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiva sam kumar" height="30" width="40" />
+    <a href="https://www.instagram.com/shiva_sam_kumar/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shiva_sam_kumar" height="30" width="40" />
     </a>
-    <a href="https://www.hackerrank.com/@shivasamkumarg" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@shivasamkumarg" height="30" width="40" />
+    <a href="https://www.hackerrank.com/shivasamkumarg" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shivasamkumarg" height="30" width="40" />
     </a>
 </p>
 
